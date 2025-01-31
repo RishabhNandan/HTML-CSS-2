@@ -1,7 +1,7 @@
 # About this Product 
 
 This is a frontend project built using **HTML** and **CSS**, with **Flexbox** for layout design. 
-It took **five days** to complete under the guidance of **Mr Vivek Moriya Sir**. 
+It took **five days** to complete under the guidance of **Mr Vivek Sir**. 
 I really enjoyed working on this project!  
 
 Live Demo  
