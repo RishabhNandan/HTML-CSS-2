@@ -7,11 +7,11 @@ I really enjoyed working on this project!
 
 Live Demo  
 [Click here to view the project](https://html-css-2-bivcae0z3-rishabh-nandans-projects-1b479204.vercel.app)  
-.[click here to view the project].(
+[click here to view the project](https://rishabhnandan.github.io/HTML-CSS-2/)
 
 # Technologies Used  
- HTML  
- CSS (Flexbox)  
+ HTML 57%
+ CSS (Flexbox) 42% 
 #License  
 Open for learning and improvements. Feel free to use and modify!  
 Happy Coding..
