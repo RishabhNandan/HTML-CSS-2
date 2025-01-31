@@ -7,6 +7,8 @@ I really enjoyed working on this project!
 
 Live Demo  
 [Click here to view the project](https://html-css-2-bivcae0z3-rishabh-nandans-projects-1b479204.vercel.app)  
+.[click here to view the project].(
+
 # Technologies Used  
  HTML  
  CSS (Flexbox)  
