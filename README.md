@@ -4,10 +4,11 @@ This is a frontend project built using **HTML** and **CSS**, with **Flexbox** fo
 It took **five days** to complete under the guidance of **Mr Vivek Sir**. 
 I really enjoyed working on this project!  
 
-Live Demo  
+# Live Demo  
 [Click here to view the project](https://html-css-2-bivcae0z3-rishabh-nandans-projects-1b479204.vercel.app)  
 [click here to view the project](https://rishabhnandan.github.io/HTML-CSS-2/)
-
+# Github Code link
+[Click Here](https://github.com/RishabhNandan/HTML-CSS-2.git)
 # Technologies Used  
  HTML 57%
  CSS (Flexbox) 42% 
