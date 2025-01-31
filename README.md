@@ -11,8 +11,8 @@ Live Demo
 # Technologies Used  
  HTML 57%
  CSS (Flexbox) 42% 
-#License  
+# License  
 Open for learning and improvements. Feel free to use and modify!  
 Happy Coding..
-#Screenshot
+# Screenshot
 <img width="959" alt="Screenshot 2025-01-31 223825" src="https://github.com/user-attachments/assets/2e582029-476a-4b8d-8145-564dd1f86d0f" />
