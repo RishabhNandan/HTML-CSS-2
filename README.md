@@ -6,7 +6,7 @@ I enjoyed working on this project!
 
 # Technologies Used  
  HTML 57% &
- CSS (Flexbox) 42% 
+ CSS (Flexbox) 42%  
 # License  
 Open for learning and improvements. Feel free to use and modify!  
 Happy Coding.
