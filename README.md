@@ -1,6 +1,6 @@
 # About this Product 
 
-This project uses **HTML** and **CSS**, with **Flexbox** for layout design. 
+This project uses **HTML** and **CSS**, with **Flexbox** for layout design.  
 It took **five days** to complete under the guidance of **Mr Vivek Sir**. 
 I enjoyed working on this project!  
 
